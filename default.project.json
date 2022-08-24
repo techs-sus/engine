@@ -1,0 +1,6 @@
+{
+  "name": "engine",
+  "tree": {
+    "$path": "src"
+  }
+}
